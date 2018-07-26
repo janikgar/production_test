@@ -67,5 +67,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #My gems
 gem 'carrierwave', '~> 1.0'
 gem 'faker', :git => 'https://github.com/stympy/faker.git', :branch => 'master'
-gem 'fog-aws'
+gem 'fog'
 gem 'figaro'
